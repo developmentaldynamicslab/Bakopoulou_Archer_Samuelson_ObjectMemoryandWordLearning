@@ -1,0 +1,97 @@
+﻿version,trial_unique,Target,Foil,ANIMATE,ANIMATE_,StimChar
+2,1_4,star.png,snake.png,ANIMATE_D,ANIMATE,aDist_f
+2,1_8,carrot.png,horse.png,ANIMATE_D,ANIMATE,aDist_f
+2,1_13,book.png,elephant.png,ANIMATE_D,ANIMATE,aDist_f
+2,2_19,bed.png,pig.png,ANIMATE_D,ANIMATE,aDist_f
+2,2_20,refrigerator.png,lion.png,ANIMATE_D,ANIMATE,aDist_f
+2,2_26,hat.png,chicken(animal).png,ANIMATE_D,ANIMATE,aDist_f
+2,3_28,mouth.png,turtle.png,ANIMATE_D,ANIMATE,aDist_f
+1,3_35,Arm,Lion,ANIMATE_D,ANIMATE,aDist_f
+1,3_39,Mouth,turtle,ANIMATE_D,ANIMATE,aDist_f
+1,4_52,Refrigerator,Bird,ANIMATE_D,ANIMATE,aDist_f
+2,1_11,cat.png,water(beverage).png,ANIMATE_T,ANIMATE,aTarget_f
+2,1_12,tiger.png,pushchair/buggy/stroller.png,ANIMATE_T,ANIMATE,aTarget_f
+2,3_32,sheep.png,sock.png,ANIMATE_T,ANIMATE,aTarget_f
+2,3_38,baby.png,cup.png,ANIMATE_T,ANIMATE,aTarget_f
+2,4_41,spider.png,banana.png,ANIMATE_T,ANIMATE,aTarget_f
+2,4_46,bee.png,hair.png,ANIMATE_T,ANIMATE,aTarget_f
+2,4_52,cow.png,train.png,ANIMATE_T,ANIMATE,aTarget_f
+1,1_8,Chicken(animal),Balloon,ANIMATE_T,ANIMATE,aTarget_f
+1,2_17,horse,Telephone,ANIMATE_T,ANIMATE,aTarget_f
+1,3_28,Butterfly,Ear,ANIMATE_T,ANIMATE,aTarget_f
+1,3_31,Spider,apple,ANIMATE_T,ANIMATE,aTarget_f
+1,3_36,Tiger,toast,ANIMATE_T,ANIMATE,aTarget_f
+1,4_47,Dog,Bike,ANIMATE_T,ANIMATE,aTarget_f
+1,4_50,Pig,Baby,ANIMATE_T,NOANIMATE,aBoth_f
+2,1_6,bowl.png,button.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,2_15,moon.png,balloon.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,2_21,hoover.png,hand.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,2_23,bus.png,toast.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,3_29,finger.png,telephone.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,3_31,jumper.png,car.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,3_35,coat.png,boat.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,4_43,clock.png,flower.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,4_49,bike.png,head.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,4_50,blanket.png,bell.png,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,1_2,sock,Flower,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,1_5,Spoon,Hand,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,1_9,Bin(Basket),Brush,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,1_11,Jumper,bath/bathtub,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,1_13,Water(beverage),coat,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,2_15,Clock,Ball,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,2_18,boat,Window,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,2_20,Tree,slide,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,2_24,Plane,Book,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,2_26,Carrot,Bowl,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,3_33,bell,Bottle,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,4_42,House,Lorry/Truck,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,4_45,Car,vacuumcleaner/hoover,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+1,4_51,Button,bus,NOANIMATE,NOANIMATE,aNeither_f (inaBoth_f)
+2,1_2,2030-600f,2062-600f,NOVEL,NOVEL,inaBoth_novel
+2,1_3,p125,o8,NOVEL,NOVEL,inaBoth_novel
+2,1_5,2057-600f,2048f ,NOVEL,NOVEL,inaBoth_novel
+2,1_7,2051f,104,NOVEL,NOVEL,inaBoth_novel
+2,1_9,2002f,2035f,NOVEL,NOVEL,inaBoth_novel
+2,1_10,2056-600f,106,NOVEL,NOVEL,inaBoth_novel
+2,2_16,105,2023-600f ,NOVEL,NOVEL,inaBoth_novel
+2,2_17,2009f,2035-600f,NOVEL,NOVEL,inaBoth_novel
+2,2_18,2014-600f,2034-600f,NOVEL,NOVEL,inaBoth_novel
+2,2_22,2001,2055-600f,NOVEL,NOVEL,inaBoth_novel
+2,2_24,o6,2022-600f,NOVEL,NOVEL,inaBoth_novel
+2,2_25,108,2012,NOVEL,NOVEL,inaBoth_novel
+2,3_30,2042-600f,2029-600f ,NOVEL,NOVEL,inaBoth_novel
+2,3_33,1008,2026-600f,NOVEL,NOVEL,inaBoth_novel
+2,3_34,143,o4,NOVEL,NOVEL,inaBoth_novel
+2,3_36,2027f,o5,NOVEL,NOVEL,inaBoth_novel
+2,3_37,2060-600f,2005f,NOVEL,NOVEL,inaBoth_novel
+2,3_39,2049-600f,1031,NOVEL,NOVEL,inaBoth_novel
+2,4_42,102,o7,NOVEL,NOVEL,inaBoth_novel
+2,4_44,109,2040f,NOVEL,NOVEL,inaBoth_novel
+2,4_45,2050-600f ,2011-600f,NOVEL,NOVEL,inaBoth_novel
+2,4_47,2058-600f,3,NOVEL,NOVEL,inaBoth_novel
+2,4_48,2054-600f,p104,NOVEL,NOVEL,inaBoth_novel
+2,4_51,110,2016 600f,NOVEL,NOVEL,inaBoth_novel
+1,1_3,107,2(2038cfnew),NOVEL,NOVEL,inaBoth_novel
+1,1_4,108,2046-600f,NOVEL,NOVEL,inaBoth_novel
+1,1_6,2041-600f,2037-600f,NOVEL,NOVEL,inaBoth_novel
+1,1_7,2064-600f,o4,NOVEL,NOVEL,inaBoth_novel
+1,1_10,2017-600f,p125,NOVEL,NOVEL,inaBoth_novel
+1,1_12,2054-600f,2040f,NOVEL,NOVEL,inaBoth_novel
+1,2_16,2047-600f,2058-600f,NOVEL,NOVEL,inaBoth_novel
+1,2_19,2034-600f,103,NOVEL,NOVEL,inaBoth_novel
+1,2_21,102,2009f,NOVEL,NOVEL,inaBoth_novel
+1,2_22,2056-600f,2057-600f,NOVEL,NOVEL,inaBoth_novel
+1,2_23,2053,o7,NOVEL,NOVEL,inaBoth_novel
+1,2_25,2038f,2052f,NOVEL,NOVEL,inaBoth_novel
+1,3_29,2006-600f,109,NOVEL,NOVEL,inaBoth_novel
+1,3_30,2026-600f,110,NOVEL,NOVEL,inaBoth_novel
+1,3_32,2012,2062-600f,NOVEL,NOVEL,inaBoth_novel
+1,3_34,2005f,2049-600f,NOVEL,NOVEL,inaBoth_novel
+1,3_37,143,2048f,NOVEL,NOVEL,inaBoth_novel
+1,3_38,2032-600f,105,NOVEL,NOVEL,inaBoth_novel
+1,4_41,2035-600f,1008,NOVEL,NOVEL,inaBoth_novel
+1,4_43,2011-600f,2035f,NOVEL,NOVEL,inaBoth_novel
+1,4_44,2021f,2039f,NOVEL,NOVEL,inaBoth_novel
+1,4_46,3,2059-600f,NOVEL,NOVEL,inaBoth_novel
+1,4_48,1031,2044f,NOVEL,NOVEL,inaBoth_novel
+1,4_49,2063-600f,2023-600f,NOVEL,NOVEL,inaBoth_novel
